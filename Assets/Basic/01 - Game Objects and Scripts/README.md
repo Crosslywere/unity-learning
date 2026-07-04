@@ -1,6 +1,12 @@
 # Game Objects and Scripts
 
-The goal of this is to learn about game objects heirarchies
+[The source article](https://catlikecoding.com/unity/tutorials/basics/game-objects-and-scripts/)
+
+The goal of this is to learn about
+1. Building a clock with simple objects
+2. Writing a C# script
+3. Rotating the clock's arms to show the time
+4. Animating the arms
 
 ## Packages
 
