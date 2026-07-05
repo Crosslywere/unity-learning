@@ -7,3 +7,4 @@ Made in Unity version `2022.3 LTS(2022.3.62f2)`
 ## Basic
 
 - [x] [Game Objects and Scripts](./Assets/Basic/01%20-%20Game%20Objects%20and%20Scripts/)
+- [x] [Building a Graph](./Assets/Basic/02%20-%20Building%20a%20Graph/)
