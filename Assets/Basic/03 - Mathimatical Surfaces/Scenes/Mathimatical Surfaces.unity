@@ -285,7 +285,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pointTransform: {fileID: 3367095282566314376, guid: db887a15d9e281e3ebf1f8d04bdff50c, type: 3}
-  resolution: 100
+  resolution: 50
   function: 4
 --- !u!1 &1584101365
 GameObject:
